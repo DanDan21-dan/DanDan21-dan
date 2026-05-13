@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+My name is Daniel Mourão.
+
+I am 17 years old.
+
+I am in high school.
+
+I am taking a programming course at DevClub, I know:
+
+  -HTML
+  <br>
+  -CSS
+
+and I am currently studying JavaScript.
 <!--
 **DanDan21-dan/DanDan21-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
